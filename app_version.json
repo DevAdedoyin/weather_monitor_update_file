@@ -1,7 +1,7 @@
 {
   "app_name": "Weather Monitor",
-  "new_app_version": "4.0.1",
-  "new_app_code": "35",
+  "new_app_version": "4.1.3",
+  "new_app_code": "37",
   "android_package": "com.weathermonitor.weatherapp",
   "ios_package": "ccom.weathermonitor.weatherapp",
   "ios_app_id": "6751232705",
